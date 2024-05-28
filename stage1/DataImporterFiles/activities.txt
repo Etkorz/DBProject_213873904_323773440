@@ -1,0 +1,20 @@
+1, Field trips, Exploring outdoors 
+2, Nature walks, Hiking or exploring local trails 
+3, Gross motor activities,exercises to develop gross motor skills
+4, Outdoor play, 
+5, Music & movement,Singing dancing and playing instruments 
+6, Dramatic play,creating plays to foster creativity
+7, Cooperative games, 
+8, Social-emotional learning, Programs focusing on managing emotions 
+9, Science experiments, activities with basic science concepts 
+10, Water play, 
+11, Storytime, 
+12, Arts and crafts, painting and drawing 
+13, Circle time,
+14, Puppet shows,
+15, Second language , Early exposure to a second language
+16, Cooking classes, basic food prep and cooking skills
+17, Gardening,lessons on nature
+18, Animal encounters, 
+19, Fire safety education,
+20, Themed days,

@@ -1,0 +1,6 @@
+123, Therapeutic-Preschool, 4-5
+124, Preschool, 4-5
+135,  Therapeutic-Nursery-school,3-4
+136, nursery-school, 3-4
+142, Therapeutic-Kindergarten, 5-6
+143, kindergarten, 5-6
